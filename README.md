@@ -38,3 +38,7 @@ gcloud dataproc jobs submit spark \
 For post processing the data, run the MultilayerAnalysis python script, 
 identifying the input path to the CSV files that were stored during the 
 processing step prior.
+
+## Visualization
+1. In the /visualization directory there is a README that directs you to the correct static HTML page
+2. For viewing the detection results, run the MultilayerAnalysis Python script in the /postprocessing directory.
