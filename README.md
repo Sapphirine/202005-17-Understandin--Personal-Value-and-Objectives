@@ -42,3 +42,6 @@ processing step prior.
 ## Visualization
 1. In the /visualization directory there is a README that directs you to the correct static HTML page
 2. For viewing the detection results, run the MultilayerAnalysis Python script in the /postprocessing directory.
+
+## More Information
+(http://www.ee.columbia.edu/~cylin/course/bigdata/projects/)
